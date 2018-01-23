@@ -1,4 +1,4 @@
-h2, h5{
+h6{
 	display: inline-block;
 	margin: 0;
 }
@@ -37,5 +37,25 @@ margin:0;
 
 .next{
  width: 90%;
+ background-color:  #D7348B;
 }
-.material-icons.pink600 { color:  #D7348B; }
+.material-icons.pink600 {
+ color:  #D7348B;
+ margin: 0;
+  }
+ .material-icons.white1{
+  color: white; 
+  font-size: 150px;
+}
+.next1{
+ width: 90%;
+ background-color:  #D7348B;
+	margin-top: 30vh;
+}
+
+.mb-0{
+	margin-bottom: 0;
+}
+.mt-20{
+	margin-top: 20vh;
+}
