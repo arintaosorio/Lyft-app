@@ -1,0 +1,41 @@
+h2, h5{
+	display: inline-block;
+	margin: 0;
+}
+.bg{
+	background: linear-gradient(#55115F, #D7348B);
+	height: 100vh;
+}
+.bglog{
+	background-image: url(../assets/images/bg.jpg);
+	height: 100vh;
+}
+
+.logo1, .logo2{
+	height: 30vh;
+	margin: auto;
+	display: block;
+}
+.rowlogo{
+	height:80vh;
+	margin:0;
+}
+.rowbtn{
+height: 20vh;
+margin:0;
+}
+.btnc{
+	background:none;
+	border: 1px solid;	
+	border-radius: 10%;
+}
+
+.btnc:hover{
+	background-color: #D7348B;
+
+}
+
+.next{
+ width: 90%;
+}
+.material-icons.pink600 { color:  #D7348B; }
